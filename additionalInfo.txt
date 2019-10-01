@@ -2,5 +2,10 @@
 --> Each CSS file requires it's own HTTP request
 --> Embedded CSS rules are render blocking
 
+CHORES
 - Add eslinting - does it make sense to do this for this project ?
 - Add watching for changes (so you don't need to keep refreshing the browser window to view changes)
+
+FEATURES
+- Have both the scientific calculator versions in one
+- Make calculator colors, font type (e.g. font used for numbers), corners (round or edge), whether to include both scientific and normal calculator sides or just one, styling (***not sure about this though) customizable
